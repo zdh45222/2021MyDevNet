@@ -33,6 +33,7 @@ import sys
 # Add parent directory to path to allow importing common vars
 sys.path.append("..") # noqa
 from device_info import ios_xe1 as device # noqa
+#from ..device_info import ios_xe1 as device
 
 # New Loopback Details
 loopback = {"int_name": "Loopback102",

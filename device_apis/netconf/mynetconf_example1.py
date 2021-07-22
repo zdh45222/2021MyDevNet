@@ -34,7 +34,8 @@ import sys
 # check if conflict happened
 sys.path.append("..") # noqa
 # from device_info import ios_xe1 as device # noqa
-from device_info import ios_xe1 as device # noqa
+#from device_info import ios_xe1 as device # noqa
+from mydevice_info import ios_xe1 as device
 
 
 # Create filter template for an interface
