@@ -30,7 +30,7 @@ from xml.dom import minidom
 import xmltodict
 import sys
 
-# Add parent directory to path to allow importing common vars
+# Add parent directory to path to allow importing common varss
 sys.path.append("..") # noqa
 # from device_info import ios_xe1 as device # noqa
 from device_info import ios_xe1 as device # noqa
