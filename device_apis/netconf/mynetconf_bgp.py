@@ -74,7 +74,7 @@ with manager.connect(host = device["address"],
 
 
 
-    # Only if RPC returned data
+    # Only if RPC returned datas
     if not bgp["rpc-reply"]["data"] is None:
         bgp = bgp["rpc-reply"]["data"]["native"]["router"]["bgp"]
 
