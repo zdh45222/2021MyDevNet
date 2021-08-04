@@ -12,8 +12,8 @@ MakatiSW = {
              "netconf_port": 830,
              "restconf_port": 9443,
              "ssh_port": 22,
-             "username": "lznwfy",
-             "password": "<ki8(ol./;p0-['a"
+             "username": "sdfsdfdf",
+             "password": "dsfsdfdfsdf"
           }
 
 
